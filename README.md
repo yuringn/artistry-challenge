@@ -1,7 +1,7 @@
 # Artistry
 Today, you have been tasked with building out a Rails application for a music studio!
 
-The purpose of this application is to log the artists in the database with the instruments that they play. This music studio only works with the best of the best, so every one of their artists can play multiple instruments. But keep in mind that with popular instruments, there can be multiple artists playing them.
+The purpose of this application is to log the artists in the database with the instruments that they play. This music studio only works with the best of the best, so every one of their artists can play multiple instruments. But keep in mind that with popular instruments (drums, guitar, bag pipes), there can be multiple artists playing them.
 
 At this point, you should be considering the relationship between an `Artist` instance and an `Instrument` instance. How would an artist keep track of all the instruments that they play and how would you know about all the artists playing a specific instruments?
 
