@@ -9,7 +9,7 @@ Some parts of the application have already been built out for you and you should
 
 After modifying the schema, these are your deliverables:
 
-1) As a user, I should be able to fill out a form to connect an artist with an instrument from the database. This form should be made with at least one dropdown. Upon successfully creating the association, I should be redirected to the artist's show page.
+1) As a user, I should be able to fill out a form to connect an artist with an instrument from the database. This form should be made with at least one dropdown potentially two dropdowns. Upon successfully creating the association, I should be redirected to the artist's show page.
 
 2) In the artist's show page, I should be able to see the artist's age, title and name. I should also be able to see all the instruments that that specific artist plays.
 
